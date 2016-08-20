@@ -1,7 +1,5 @@
 ### Priority queue task
 
-:warning: DO NOT FORK AND SUBMIT PRS TO THIS REPO :warning:
-
 ### Prerequisites
 * Install [nodejs](https://nodejs.org/en/) (>= v6.2.0)
 * open bash in this folder
